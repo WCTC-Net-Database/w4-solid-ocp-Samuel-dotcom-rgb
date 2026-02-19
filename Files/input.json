@@ -1,6 +1,6 @@
 ﻿[
   {
-    "name": "John, Brave",
+    "name": "John, Johnny",
     "class": "Fighter",
     "level": 1,
     "hp": 10,
@@ -21,14 +21,14 @@
     "equipment": [ "dagger", "lockpick", "cloak" ]
   },
   {
-    "name": "Alice",
+    "name": "Larry",
     "class": "Cleric",
     "level": 4,
     "hp": 12,
     "equipment": [ "mace", "armor", "potion" ]
   },
   {
-    "name": "Reginald III, Sir",
+    "name": "Reginald, Sir",
     "class": "Knight",
     "level": 5,
     "hp": 20,
